@@ -8,3 +8,6 @@ https://crosswire.org/wiki - follow the menu under **Development Tools**.
 CONF is not a tightly defined language _per se_, so the highlighting usually has some peculiar side effects.
 
 Even so, I have found it useful for detecting real errors in conf files for various modules.
+
+CONF.xml should only be edited using the **Define Language GUI** in Notepad++
+
