@@ -11,4 +11,13 @@ Even so, I have found it useful for detecting real errors in conf files for vari
 
 CONF.xml should only be edited using the **Define Language GUI** in Notepad++
 
+For **Notepad++** https://notepad-plus-plus.org/ - the popular Unicode text editor
+
+For technical background http://docs.notepad-plus-plus.org/index.php?title=User_Defined_Language_Files
+
+See also [User Defined Language](https://ivan-radic.github.io/udl-documentation/).
+
 See also https://github.com/notepad-plus-plus/userDefinedLanguages
+
+The developer is a volunteer for the **CrossWire Bible Society** - http://crosswire.org/
+
